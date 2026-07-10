@@ -1,4 +1,4 @@
-![Versão CLI Terminal](assets/terminal-120.png) ![Versão Java](assets/t-81.gif) ![Versão Java](assets/java.png)
+![Versão CLI Terminal](assets/terminal-120.png) ![Versão Java](assets/t-81.gif) ![Versão Java](assets/java2.png)
 
 
 # *Do Shell Script para o Java (Reescrita Completa)*
